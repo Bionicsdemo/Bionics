@@ -1,0 +1,2 @@
+streamlit==1.25.0  # Asegúrate de que esta sea la versión más reciente compatible
+requests==2.31.0   # Para hacer solicitudes HTTP
